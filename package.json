@@ -9,9 +9,17 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": "",
   "dependencies": {
     "discord.js": "^14.17.3",
     "dotenv": "^16.4.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladDarkel/textuaria-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VladDarkel/textuaria-discord/issues"
+  },
+  "homepage": "https://github.com/VladDarkel/textuaria-discord#readme",
+  "description": ""
 }
